@@ -16,3 +16,7 @@ should edit prompt again to keep it aware
 - after completion, combine into 1 results.md file but DO NOT DELETE result-1.md
 - terminate if realize incapable of generating results.md
 - rationale is that, might cancel / kill a session anytime, so would like all incremental progress saved, and potentially resumed by a new session
+
+gemini however does consistently "choke up" and be unresponsive
+
+gemini seems better for... smaller tasks and not LARGE tasks like this
