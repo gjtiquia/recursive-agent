@@ -61,3 +61,10 @@ likely you will go through the following flow:
 - add more todos if needed
 - log in log.md 
 - repeat until you deem requirements are completed and deemed the task finished
+
+after completion, double check results.md
+- check that it meets the requirements and completes the task
+- make sure nothing is mising in the results.md
+- if you have trouble putting everything in a single file results.md, you may split them into several files as needed (results-1.md, results-2.md etc)
+
+
