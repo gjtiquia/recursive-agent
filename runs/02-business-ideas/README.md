@@ -20,3 +20,5 @@ should edit prompt again to keep it aware
 gemini however does consistently "choke up" and be unresponsive
 
 gemini seems better for... smaller tasks and not LARGE tasks like this
+
+tho after splitting of results, much better cuz can kill and restart another session to pick up the work
