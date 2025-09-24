@@ -22,6 +22,7 @@ please create the following files (if they do not exist)
 - requirements.md
 - todo.md 
 - log.md
+- result-1.md
 - results.md
 
 if they exist, you should pick up where you left off (see log.md)
@@ -42,9 +43,13 @@ log.md
 - also for me to debug if ever some how your recursion spirals out of control, at least i can see where you start to diverge
 - include the timestamp for each log
 
+result-1.md
+- here you shall write down incrementally the results of the task i have given you 
+- after writing once, new results should be written in a new file (ie. result-2.md and so on)
+- (see flow below)
+
 results.md
-- here you shall write down the results of the task i have given you
-- treat this as the final deliverable
+- this is to remain empty until the task is completed (see flow below)
 
 likely you will go through the following flow:
 - read this prompt.md file
@@ -53,7 +58,7 @@ likely you will go through the following flow:
 - write down initial todos in todo.md
 - log in log.md
 - start doing the tasks in todo.md
-- likely you will start populating results.md
+- write down first results in result-1.md
 - check the tasks that you finish in todo.md
 - log in log.md
 - check requirements
@@ -61,10 +66,13 @@ likely you will go through the following flow:
 - add more todos if needed
 - log in log.md 
 - repeat until you deem requirements are completed and deemed the task finished
+- likely you will be creating result-2.md result-3.md and so forth
+- once you deem the task finished, attempt to combine all result-1.md etc files into result.md
+- if you find that you are unable to combine, it is ok, let it be
 
-after completion, double check results.md
-- check that it meets the requirements and completes the task
-- make sure nothing is mising in the results.md
-- if you have trouble putting everything in a single file results.md, you may split them into several files as needed (results-1.md, results-2.md etc)
-
+rationale of result-1.md, result-2.md
+- likely you will be running on a very long time
+- you may reach limits of writing to a single file if you break down into several sub tasks
+- writing in each individual file will mitigate the risk of erasing previous results
+- also the session might be cancelled or killed anytime, so splitting into several files (together with log.md) will ensure another agent can continue the work
 
