@@ -1,0 +1,1 @@
+The agent needs to generate 100 online business ideas suitable for a solo software engineer with game dev and web dev experience. Each idea should include a TLDR, identified pain points, proposed solutions, monetization strategies, competitive analysis, and market size. The ideas should be ranked.
